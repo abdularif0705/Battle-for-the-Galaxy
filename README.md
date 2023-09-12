@@ -1,6 +1,6 @@
+
 # Battle for the Galaxy
 
 ## Gameplay
 
-https://user-images.githubusercontent.com/55670928/185810739-3dbf8a3e-6319-4073-b003-1f3b82e1fb9b.mp4
-
+https://github.com/abdularif0705/Battle-for-the-Galaxy/assets/55670928/87d0f361-a4f1-4c54-8efc-dc62e67eb310
